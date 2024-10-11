@@ -22,4 +22,12 @@
   "imageUrl" : "https://paimon.moe/images/events/spiral_abyss.jpg",
   "game" : "Genshin",
   "description" : "After the active character uses an Elemental Skill, Normal Attack and Elemental Skill DMG is increased by 40% for 12s. For characters in Nightsoul's Blessing, this effect is enhanced: Normal Attack and Elemental Skill DMG is increased by 80%."
+}, {
+  "id" : 4,
+  "title" : "Imaginarium Theater",
+  "startDate" : "2024-10-01T05:00:00Z",
+  "endDate" : "2024-11-01T05:00:00Z",
+  "imageUrl" : "https://paimon.moe/images/events/Imaginarium%20Theater%20tmp.png",
+  "game" : "Genshin",
+  "description" : "Required Elemental Types: Pyro, Electro, and Geo."
 } ]
