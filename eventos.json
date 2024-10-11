@@ -1,0 +1,25 @@
+[ {
+  "id" : 1,
+  "title" : "Gracia Forjallamas - Xilonen",
+  "startDate" : "2024-10-09T05:00:00Z",
+  "endDate" : "2024-10-29T05:00:00Z",
+  "imageUrl" : "https://upload-os-bbs.hoyolab.com/upload/2024/10/06/0/296e3a65ee6ca265edf5b40620e9201a_2167194691922848484.jpeg",
+  "game" : "Genshin",
+  "description" : "¡Disfruta del mejor concierto de rock del año!"
+}, {
+  "id" : 2,
+  "title" : "Nubes Sedosas - Chiori ",
+  "startDate" : "2024-10-09T05:00:00Z",
+  "endDate" : "2024-10-29T18:59:59Z",
+  "imageUrl" : "https://upload-os-bbs.hoyolab.com/upload/2024/10/06/0/d9b91bd7ea7403ae546b54d843d97ca8_720289688579082624.jpeg",
+  "game" : "Genshin",
+  "description" : ""
+}, {
+  "id" : 3,
+  "title" : "Abyss",
+  "startDate" : "2024-09-16T05:00:00Z",
+  "endDate" : "2024-10-16T05:00:00Z",
+  "imageUrl" : "https://paimon.moe/images/events/spiral_abyss.jpg",
+  "game" : "Genshin",
+  "description" : "After the active character uses an Elemental Skill, Normal Attack and Elemental Skill DMG is increased by 40% for 12s. For characters in Nightsoul's Blessing, this effect is enhanced: Normal Attack and Elemental Skill DMG is increased by 80%."
+} ]
